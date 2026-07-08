@@ -8,28 +8,80 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll.</p>
+<h5> AI Daily by DeepGeekAI ｜ 探索 AI 驱动的未来</h5>
 
-<!-- <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p> -->
-<!-- <h4>Documentation</h4>
+<p>欢迎来到 AI Daily。我们是一个致力于解码人工智能浪潮、连接前沿科技与日常应用的独立内容平台。</p>
 
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p> -->
+<p>在这个“一天一个新世界”的 AI 大航海时代，海量的信息流和技术名词常常让人感到焦虑。我们的使命，就是成为您的首席 AI 观察员与过滤器。</p>
 
-<h4>Questions or bug reports?</h4>
+<hr />
 
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
+<h5> 🚀 我们的使命 (Our Mission)</h5>
+
+<p>把复杂的科技，变成人人都可享用的生产力。</p>
+
+<p>我们不只追踪“发生了什么”，更死磕“这对你有什么用”。通过每日精选，帮助你打破信息差，在智能时代保持核心竞争力。</p>
+
+<hr />
+
+<h5> 🎯 我们每天在做什么 (What We Do)</h5>
+<p>为了让你用最少的时间掌握最有价值的 AI 动向，我们专注于四大核心板块：</p>
+
+<ul>
+<li>全球硬核科技追踪：透视 OpenAI、Google、Meta 等巨头的最新动作与开源模型。</li>
+<li>高价值 AI 工具评测：拒绝跟风，实测各类 AI 效率工具，只推荐真正能落地、能省时的好产品。</li>
+<li>职场自动化与应用案例：分享各行各业如何用 AI 降本增效，提供保姆级的 Prompt（提示词）指南。</li>
+<li>深度趋势与观点剖析：剥离科技泡沫，理性探讨 AI 对就业、教育、创意等领域的长远影响。</li>
+</ul>
+
+
+<hr />
+
+<h5> 👥 我们的读者是谁 (Who We Serve)</h5>
+
+<ul>
+<li>科技弄潮儿与极客：想在第一时间上手最新模型、探索技术边界的你。</li>
+<li>职场精英与自由职业者：渴望用 AI 重塑工作流、实现效率翻倍的你。</li>
+<li>内容创作者与设计师：正在寻找灵感碰撞、尝试 AI 辅助创作的你。</li>
+<li>对未来充满好奇的每个人：不想被时代抛下，希望看清未来趋势的你。</li>
+</ul>
+
+
+<hr />
+
+<h5> 💡 为什么选择 AI Daily？</h5>
+
+<ul>
+<li>拒绝噪音：信息泛滥的时代，我们只交付观点明确、证据确凿的硬核干货。</li>
+<li>主打落地：不谈虚无缥缈的概念，所有工具和方法均以“解决实际问题”为导向。</li>
+<li>保持纯粹：我们对技术抱有纯粹的热忱，坚持客观、独立、理性的观察视角。</li>
+</ul>
+
+
+<p>AI 不是未来的趋势，而是正在发生的现实。感谢你选择 AI Daily 作为你的技术进化伴侣。让我们一起，日拱一卒，与智能时代共同进化。</p>
+
+<hr />
+
+<h5> 💬 问题反馈&联系我们</h5>
+
+<p>项目技术问题相关事项，请前往我们的 <a href="https://github.com/aideepgeek/ai-daily">GitHub 代码库</a> 提交issue!</p>
+
+<p>其他问题咨询，可以通过我们的邮箱： aideepgeek AT gmail DOT com.</p>
 
 </div>
 
 <div class="col-md-4">
 
 <div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
+<h5>打赏我们</h5>
 
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
+<p>觉得项目还不错？请作者喝杯咖啡 🥤 / 吃块披萨 🍕～</p>
 
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> 
-<!-- <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a> -->
+<p>通过微信支付打赏：</p>
+<img src="assets/images/pay_wechat.jpg" alt="微信打赏" width="80%" height="auto" margin="10px auto">
+
+<p>通过支付宝打赏：</p>
+<img src="assets/images/pay_zfb.jpg" alt="支付宝打赏" width="80%" height="auto" margin="10px auto">
 
 </div>
 </div>
