@@ -65,7 +65,7 @@ comments: true
 <h5> 🔗 我们的其他项目 (Our Other Projects)</h5>
 
 <ul>
-<li><a href="https://github.com/aideepgeek/next-navi">AI 导航站 next-navi</a>：精选 50 个 AI 工具的导航站，覆盖对话、编程、绘画、视频、音乐与搜索，支持中英文切换与深色模式。</li>
+<li><a href="https://next-navi.vercel.app/">AI 导航站 next-navi</a>：精选 109 个 AI 工具的导航站，覆盖对话、编程、绘画、视频、音乐与搜索，支持中英文切换与深色模式（<a href="https://github.com/aideepgeek/next-navi">源码</a>）。</li>
 <li><a href="https://github.com/aideepgeek/ThemeHub">ThemeHub</a>：75 个带已核实预览链接的免费建站主题，覆盖 Jekyll / Hugo / Hexo / Astro。</li>
 </ul>
 
